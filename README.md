@@ -9,9 +9,6 @@
 - ⚡ I love exploring step by step, experimenting with new technologies, and turning ideas into working projects.
 - 🔧 Constantly learning and applying modern tools and frameworks to develop practical, real-world solutions.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/profile-top-line.png" alt="topline" />
-</p>
 
 
 ## 💻 Code In
@@ -37,9 +34,15 @@
 ---
 
 ## 🤝 Connect With Me
+
 <p align="center">
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:govindharajkavi85@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/kaviyarasu-g-3488b8287)
+  <a href="mailto:govindharajkavi85@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kaviyarasu-g-3488b8287">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
+  </a>
 </p>
+
 
 
