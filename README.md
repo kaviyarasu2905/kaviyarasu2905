@@ -42,6 +42,10 @@
   <a href="https://www.linkedin.com/in/kaviyarasu-g-3488b8287">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
   </a>
+  <a href="https://ai-support-app.onrender.com">
+  <img src="https://img.shields.io/badge/Live%20Demo-Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+</a>
+  
 </p>
 
 
