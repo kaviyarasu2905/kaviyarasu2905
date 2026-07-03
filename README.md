@@ -20,20 +20,37 @@
 
 ### 💻 Tech Stack
 
+**Programming Languages**
 <p align="center">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white&style=for-the-badge" alt="C"/>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white&style=for-the-badge" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white&style=for-the-badge" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge" alt="JS"/>
+</p>
+
+**Frontend**
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge" alt="JS"/>
   <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge" alt="React"/>
+</p>
+
+**Backend**
+<p align="center">
   <img src="https://img.shields.io/badge/Node.js-%2300A86B.svg?logo=node.js&logoColor=white&style=for-the-badge" alt="Node"/>
   <img src="https://img.shields.io/badge/Express-%23000000.svg?logo=express&logoColor=white&style=for-the-badge" alt="Express"/>
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/LangChain-%231C3C3C.svg?logo=langchain&logoColor=white&style=for-the-badge" alt="LangChain"/>
   <img src="https://img.shields.io/badge/Blockchain-%23121D33.svg?logo=blockchaindotcom&logoColor=white&style=for-the-badge" alt="Blockchain"/>
+</p>
+
+**Database**
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB"/>
+</p>
+
+**Tools**
+<p align="center">
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white&style=for-the-badge" alt="Git"/>
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="VS Code"/>
 </p>
@@ -111,19 +128,6 @@ B.E. Computer Science and Engineering (Minor: Blockchain Technology) | CGPA: 8.1
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/kavi29052005?theme=dark" alt="LeetCode Stats" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaviyarasu2905&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaviyarasu2905&theme=dark&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaviyarasu2905&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
