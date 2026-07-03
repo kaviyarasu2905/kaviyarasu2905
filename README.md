@@ -118,12 +118,12 @@ B.E. Computer Science and Engineering (Minor: Blockchain Technology) | CGPA: 8.1
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kaviyarasu2905&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaviyarasu2905&theme=dark&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaviyarasu2905&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -137,7 +137,7 @@ B.E. Computer Science and Engineering (Minor: Blockchain Technology) | CGPA: 8.1
   <a href="https://www.linkedin.com/in/kaviyarasu-g-3488b8287">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/kaviyarasu2905">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/>
   </a>
   <a href="https://ai-support-app.onrender.com">
@@ -145,4 +145,4 @@ B.E. Computer Science and Engineering (Minor: Blockchain Technology) | CGPA: 8.1
   </a>
 </p>
 
-<p align="center"><i>⭐️ From <a href="https://github.com/YOUR_GITHUB_USERNAME">Kaviyarasu G</a> — thanks for stopping by!</i></p>
+<p align="center"><i>⭐️ From <a href="https://github.com/kaviyarasu2905">Kaviyarasu G</a> — thanks for stopping by!</i></p>
