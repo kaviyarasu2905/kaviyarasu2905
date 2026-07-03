@@ -167,12 +167,6 @@ Higher Secondary (12th) — 84% &nbsp;|&nbsp; Secondary (10th) — State Board
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kaviyarasu2905&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies"/>
-</p>
-
 ---
 
 ## 🤝 Connect With Me
