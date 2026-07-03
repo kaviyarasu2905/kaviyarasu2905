@@ -24,22 +24,13 @@
 
 ## 👨‍💻 About Me
 
-```yaml
-name: Kaviyarasu G
-role: Aspiring Full Stack Developer
-degree: B.E. Computer Science and Engineering (Minor - Blockchain Technology)
-college: Dr. N.G.P. Institute of Technology, Coimbatore
-cgpa: 8.11
-location: Dharmapuri, Tamil Nadu, India
-currently_exploring: [GenAI Agents, LangChain, LangGraph, System Design]
-fun_fact: "Turns ideas into working projects, one commit at a time 🚀"
-```
+I'm a Computer Science Engineering student at **Dr. N.G.P. Institute of Technology, Coimbatore**, maintaining a CGPA of **8.11** with a minor in Blockchain Technology. I build full-stack web applications and AI-powered systems, with hands-on experience from internships in GenAI and web development.
 
-- 🔭 Currently building AI-powered agents and full-stack web applications
-- 🌱 Constantly leveling up in Java, DSA, and modern web frameworks
 - 🎯 Actively seeking **Full Stack Developer / Software Engineer** roles
-- 💬 Ask me about React, Node.js, LangChain, or DSA in Java
-- ⚡ Fun fact: I love breaking down complex problems step by step until they're simple
+- 🔭 Currently building AI-powered agents and full-stack web applications
+- 🌱 Deepening my expertise in Java, DSA, and modern web frameworks
+- 💬 Happy to talk about React, Node.js, LangChain, or DSA in Java
+- 📍 Based in Dharmapuri, Tamil Nadu, India
 
 ---
 
